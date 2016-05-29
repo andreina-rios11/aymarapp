@@ -1,0 +1,2 @@
+# aymarapp
+aplicación movil aymara
